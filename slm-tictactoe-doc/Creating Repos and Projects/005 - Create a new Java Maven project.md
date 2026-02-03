@@ -19,3 +19,8 @@ History leading to rebase button:
 ![[Bildschirmfoto von 2026-02-03 10-51-21.png]]
 
 ![[Bildschirmfoto von 2026-02-03 10-52-15.png]]
+
+---
+
+Screenshot of the commit history on GitHub:
+![[Pasted image 20260203111530.png]]
