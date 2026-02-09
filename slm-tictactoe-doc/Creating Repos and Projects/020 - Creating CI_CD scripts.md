@@ -22,6 +22,8 @@ And links to the Issues these close:
 Exemplary Screenshot:
 ![[Pasted image 20260209103730.png]]
 
+![[Pasted image 20260209105225.png]]
+
 # Technical description
 
 The process resulted resulted in 2 yaml files:
