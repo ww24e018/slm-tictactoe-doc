@@ -2,9 +2,11 @@
 
 ## The process of research and development
 
-To simplify research and development, and to keep the submission repo free of commits doing trial and error on syntax and meaning, a decision was made to use a custom test-repository on github to experiment more freely.
+To simplify research and development - and to keep the submission repo free of commits doing trial and error on syntax and meaning - a decision was made to use a custom test-repository on GitHub to experiment more freely.
 
-This repository is also public and is available [here](https://github.com/ww24e018/slm-tictactoe-test) if a deeper view into that process is required. It does not have the full spectrum of main-branch protections as its purpose is to serve as a playground for quick test runs that might require changes to be present on main.
+This repository is also public and is available [here](https://github.com/ww24e018/slm-tictactoe-test) if a deeper view into that process is required (or desired). 
+
+It does not have the full spectrum of main-branch protections - its purpose is to serve as a playground for quick test runs that might require changes to be present on main.
 
 ![[Pasted image 20260209103218.png]]
 
