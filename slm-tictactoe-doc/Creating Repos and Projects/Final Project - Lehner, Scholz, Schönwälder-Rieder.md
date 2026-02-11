@@ -130,7 +130,7 @@ Clicking "+" is possible:
 ![[Pasted image 20260203094444.png|200]]
 
 
-![[Pasted image 20260203094454.png]]
+![[Pasted image 20260203094454.png|200]]
 
 
 `create new issue` 
