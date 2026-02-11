@@ -1,8 +1,10 @@
 This document serves as documentation for the SLM-project 'Java Game TicTacToe' and provides a walkthrough illustrating the most important steps of our development process with short textual description as well as screenshots - focussing on our usage of GitHub and application of concepts studied in the seminar rather than on the game itself.
 
-The structure of the documentation follows the chronology of our workflow which in turn closely followed the list of tasks provided in the task description.
+The structure of the documentation follows the chronology of our workflow - which in turn closely followed the list of tasks provided in the task description.
 
-Regarding our collaborative process, especially in the earlier stages of the project, the majority of tasks were done together, triple programming style, to maximise knowledge gain for all team members. This is mentioned here to prevent faulty impressions that might be caused by the statistics showing that one member of the team authored significantly more commits than the other two members. This is due to the fact that their account was typically used for the tasks we tackled together.
+Regarding our collaborative process: Especially in the earlier stages of the project, the majority of tasks were done together, triple programming style. The intent was to maximise knowledge gain for all team members. 
+
+*This is mentioned here to prevent faulty impressions that might be caused by the statistics showing that one member of the team authored significantly more commits than the other two members in the beginning. This is due to the fact that their account was typically used for the tasks we tackled together, mainly to simplify the workflow and keep the screenshots similar.*
 
 The GitHub repository can be accessed at https://github.com/ww24e018/slm-tictactoe
 The project (Kanban Board) can be accessed at https://github.com/users/ww24e018/projects/1
