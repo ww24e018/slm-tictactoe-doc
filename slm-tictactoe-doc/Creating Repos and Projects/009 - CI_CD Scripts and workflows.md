@@ -6,7 +6,7 @@ To simplify research and development - and to keep the submission repo free of c
 
 This repository is also public and is available [here](https://github.com/ww24e018/slm-tictactoe-test) if a deeper view into that process is required (or desired). 
 
-It does not have the full spectrum of main-branch protections - its purpose is to serve as a playground for quick test runs that might require changes to be present on main.
+It does not have the full spectrum of main-branch protections because its purpose is to serve as a playground for quick test runs that might require changes to be present on main.
 
 ![[Pasted image 20260209103218.png]]
 
