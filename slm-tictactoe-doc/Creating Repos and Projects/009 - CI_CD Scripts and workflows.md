@@ -1,13 +1,14 @@
+# 009 - CI/CD Scripts and workflows
 
-# The process of research and development
+## The process of research and development
 
-To simplify research and development, and to keep the submission repo free of 10^2 commits doing trial and error on syntax and meaning, a decision was made to use a custom test-repository on github to experiment more freely.
+To simplify research and development, and to keep the submission repo free of commits doing trial and error on syntax and meaning, a decision was made to use a custom test-repository on github to experiment more freely.
 
 This repository is also public and is available [here](https://github.com/ww24e018/slm-tictactoe-test) if a deeper view into that process is required. It does not have the full spectrum of main-branch protections as its purpose is to serve as a playground for quick test runs that might require changes to be present on main.
 
 ![[Pasted image 20260209103218.png]]
 
-# The process of implementing results
+## The process of implementing results
 
 was the usual of creating tickets/issues/board-items (! not userstories) on the board, creating branches, pushing branches, creating merge requests, requesting review, doing review, incorporating review and (at some point) merging.
 
@@ -26,7 +27,7 @@ Exemplary screenshot:
 
 ![[Pasted image 20260209105225.png]]
 
-The suggestion made in the comment above was realised in https://github.com/ww24e018/slm-tictactoe/issues/20 / https://github.com/ww24e018/slm-tictactoe/pull/21 .
+The suggestion made in the comment above lead to https://github.com/ww24e018/slm-tictactoe/issues/20 / https://github.com/ww24e018/slm-tictactoe/pull/21 .
 
 # Technical description
 
@@ -38,11 +39,3 @@ These names are the default ones given by the github-actions wizard. Later the q
 It was assumed this would be possible but would/might require research into and testing of more advanced github-actions-syntax to distinguish between the different trigger-events.
 
 For now - while possibly slightly inefficient - they satisfy requirements.
-
-
-
-
-
-
-
-

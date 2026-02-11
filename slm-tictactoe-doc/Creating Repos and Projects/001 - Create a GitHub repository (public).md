@@ -1,27 +1,25 @@
-at: https://github.com/repos clicking "new repository":
+# 001 - Create a GitHub repository (public)
+
+At https://github.com/repos a new repository was created by clicking "new repository":
 
 ![[Pasted image 20260203093006.png]]
-Filling out:
+The name "slm-tictactoe" was chosen.
 ![[Pasted image 20260203093113.png]]
-Clicking "create repository" leads to:
+The repository was successfully created.
 ![[Pasted image 20260203093136.png]]
-# 002 Create a GitHub project and link it to the created repository
+In order to successfully collaborate in this new repository, the other team members were invited as collaborators:
+ Go to "Settings":
+ ![[Pasted image 20260203101710.png]]
+Go to "Collaborators":
+![[Pasted image 20260203101732.png]]
 
-clicking "projects"
-![[Pasted image 20260203093307.png]]
-![[Pasted image 20260203093415.png]]
-After clicking "+ New project":
-![[Pasted image 20260203093443.png]]
 
-Clicking "Kanban":
-![[Pasted image 20260203093518.png]]
-before clicking create project:
-![[Pasted image 20260203093630.png]]
+![[Pasted image 20260203101747.png]]
 
-after:
-![[Pasted image 20260203093648.png]]
 
-nach reload:
-![[Pasted image 20260203093705.png]]
 
-We assume it is "linked" at this point based on the import of open issues from the appropriate repo.
+![[Pasted image 20260203101802.png]]
+
+
+![[Pasted image 20260203101857.png]]
+

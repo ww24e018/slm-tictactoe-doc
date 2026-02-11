@@ -1,5 +1,6 @@
+# 003 - Transfer the user stories to a new Kanban board in the project
 
-The descriptions are:
+The user stories in the project description are:
 - As a player, I want to be able to **make a move** by choosing an empty square, so that I can place my symbol on the board. (1)
 - As a player, I want to be able to **see the current state** of the game, so that I can keep track of the moves made by both myself and my opponent.  (2)
 - As a player, I want to **be notified when the game has ended** in a win, loss or draw, so that I can see the result of the game.  (3)
@@ -12,21 +13,21 @@ The Board:
 Clicking "add item" in the backlog-column:
 ![[Pasted image 20260203094420.png]]
 
-Click "+" is possible:
+Clicking "+" is possible:
 ![[Pasted image 20260203094444.png]]
 
 
 ![[Pasted image 20260203094454.png]]
 
 
-create new issue ->
+`create new issue` 
 ![[Pasted image 20260203094516.png]]
 
-Filling it out:
+Filling in title and description:
 ![[Pasted image 20260203094656.png]]
-After clicking "create":
+The first issue has been created:
 ![[Pasted image 20260203094822.png]]
-Screenshots of 2 and 4 (forgot 3) and the final state:
+Screenshots of 2 and 4 and the final state:
 ![[Pasted image 20260203094903.png]]
 
 ![[Pasted image 20260203095116.png]]
@@ -34,5 +35,4 @@ Screenshots of 2 and 4 (forgot 3) and the final state:
 The board:
 ![[Pasted image 20260203095148.png]]
 
-The ids where chosen to match the predicted ids from GitHub. They are kinda double now.
 

@@ -1,0 +1,18 @@
+# 007 Commit and push your blank Java project to the main branch
+
+![[Bildschirmfoto von 2026-02-03 10-29-11.png]]
+
+
+![[Bildschirmfoto von 2026-02-03 10-45-48 1.png]]
+
+
+History leading to rebase button: 
+
+![[Bildschirmfoto von 2026-02-03 10-51-21.png]]
+
+![[Bildschirmfoto von 2026-02-03 10-52-15.png]]
+
+---
+
+Screenshot of the commit history on GitHub:
+![[Pasted image 20260203111530.png]]
