@@ -4,12 +4,9 @@
 
 by Eva Lehner, Florian Scholz, Sophie Schönwälder-Rieder
 February, 2026
-
-
-
-
-
-
+<br>
+<br>
+<br>
 
 # Table of Contents
 - [[#000 - Welcome|000 - Welcome]]
@@ -40,7 +37,7 @@ Regarding our collaborative process: Especially in the earlier stages of the pro
 
 The GitHub repository can be accessed at https://github.com/ww24e018/slm-tictactoe
 The project (Kanban Board) can be accessed at https://github.com/users/ww24e018/projects/1
-The .jar of our latest release of the game can be downloaded at https://github.com/ww24e018/slm-tictactoe/releases
+The .jar of our latest release of the game can be downloaded at https://github.com/ww24e018/slm-tictactoe/releases/tag/v1.0.1
 
 In the process of exploring workflows and ci/cd, a test repository was created to provide a playground for quick trials that require changes to be present on the main branch. This repo can be accessed here, should it be of any interest: https://github.com/ww24e018/slm-tictactoe-test
 
@@ -328,7 +325,7 @@ A clean Kanban board - all issues have been moved to `done`:
 
 
 Our final release:
-![[Pasted image 20260212103428.png|400]]
+![[Pasted image 20260212120924.png|400]]
 
 
 
