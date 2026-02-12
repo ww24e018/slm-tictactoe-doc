@@ -305,17 +305,18 @@ For now - while possibly slightly inefficient - they satisfy requirements.
 4. After the first commit ist ready, we push to remote and create a pull request which we mark as draft. This is to further visualize our work in progress to the rest of the team.
 5. In our description we link the pull request to the issue.
    ![[signal-2026-02-10-114020.png|400]]
-6. When the developer is done with the ticket and all checks have passed, they set the pull request to "ready for review", request a review and move the ticket to `In review`.  ![[Pasted image 20260210115442.png|400]]
+6. When working on an issue, unit-tests are written for all new methods (with the exception of very few methods where unit-testing does not apply as a method). Unit-tests are automatically performed with every push.
+7. When the developer is done with the ticket and all checks (i.e. unit-tests) have passed, they set the pull request to "ready for review", request a review and move the ticket to `In review`.  ![[Pasted image 20260210115442.png|400]]
    ![[Pasted image 20260210115457.png|400]]
 	![[Pasted image 20260210115623.png|400]]
-7. The reviewer writes a review. If there are no necessary changes, they can directly approve the request.![[Pasted image 20260210115958.png|400]]
-8. After the pull request is approved, the developer merges to main and moves the ticket to `Done`.
+8. The reviewer writes a review. If there are no necessary changes, they can directly approve the request.![[Pasted image 20260210115958.png|400]]
+9. After the pull request is approved, the developer merges to main and moves the ticket to `Done`.
    ![[Pasted image 20260210120150.png|400]]
-9. Sometimes the reviewer has questions, remarks, recommendations or corrections. These are posted as comments. If necessary or useful, they are also discussed in person. The review is then submitted as requesting changes.
-10. The author makes amends to the code and answers to the comments left by the reviewer. After changes have been made, they re-request a review.
-11. The reviewer who requested the changes reviews the author's answers and changes to the code and ultimately resolves the conversation in the comments. 
+10. Sometimes the reviewer has questions, remarks, recommendations or corrections. These are posted as comments. If necessary or useful, they are also discussed in person. The review is then submitted as requesting changes.
+11. The author makes amends to the code and answers to the comments left by the reviewer. After changes have been made, they re-request a review.
+12. The reviewer who requested the changes reviews the author's answers and changes to the code and ultimately resolves the conversation in the comments. 
     ![[Pasted image 20260210152947.png|400]]
-12. Once they are satisfied with the result, they approve the pull request. Subsequently the feature branch is merged by the author (see steps 7-8).
+13. Once they are satisfied with the result, they approve the pull request. Subsequently the feature branch is merged by the author (see steps 7-8).
 
 
 
