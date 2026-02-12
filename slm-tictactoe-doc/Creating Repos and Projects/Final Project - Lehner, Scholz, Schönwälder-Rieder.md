@@ -324,9 +324,21 @@ For now - while possibly slightly inefficient - they satisfy requirements.
 
 A clean Kanban board - all issues have been moved to `done`:
 
+![[Pasted image 20260212101731.png|400]]
+
+
+Our final release:
+![[Pasted image 20260212103428.png|400]]
+
+
+
 Exemplary game run - everything works as it should:
 
-Our big release:
+![[Screenshot 2026-02-12 102612.png|400]]
+![[Screenshot 2026-02-12 102640.png|400]]
+![[Screenshot 2026-02-12 102656.png|400]]
+![[Screenshot 2026-02-12 102710.png|400]]
+![[Screenshot 2026-02-12 102736.png|400]]
 
 
 
